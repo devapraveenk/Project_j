@@ -3,8 +3,8 @@ import logging
 import os
 from typing import Optional, Union
 
-from ai_companion.core.exceptions import ImageToTextError
-from ai_companion.settings import settings
+from asdeyy.core.exceptions import ImageToTextError
+from asdeyy.settings import settings
 from groq import Groq
 
 
